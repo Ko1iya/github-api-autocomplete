@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@octokit/core": "^5.2.0",
+    "octokit": "^3.2.0"
+  },
+  "name": "github-api-autocomplete",
+  "version": "1.0.0",
+  "main": "draft.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
